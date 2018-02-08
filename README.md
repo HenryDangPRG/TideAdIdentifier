@@ -38,5 +38,5 @@ Then, you can use the trained CNN for prediction by running :
 For most ads, TideAdIdentifier will produce a certainty percentage of around 30-70%, unless you input one
 of the ads that was used in the training set.
 
-To improve TideAdIdentifier's accuracy, use more data (longer videos) and train for longer epochs. 
+To improve TideAdIdentifier's accuracy, use more data (longer videos) and train for more epochs. 
 Increasing the dimensions of TideAdIdentifier's images may also increase accuracy as well.
